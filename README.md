@@ -36,13 +36,7 @@ Ratings and item count data
    
 Dashboard Screenshot shows the visual representation of the analysis.
 
-
-
-
-
-
-
-![Blinkit sales dashboard](https://github.com/user-attachments/assets/04f57a12-a097-4503-bd3e-f2438664efa7)
+[Blinkit sales dashboard](https://github.com/user-attachments/assets/04f57a12-a097-4503-bd3e-f2438664efa7)
 
 
 
